@@ -1,0 +1,16 @@
+matplotlib==3.9.2
+mediapipe==0.10.14
+numpy==1.26.4
+opencv_contrib_python==4.10.0.84
+opencv_python==4.10.0.84
+opencv_python_headless==4.9.0.80
+Pillow==10.4.0
+scipy~=1.11.0
+tqdm==4.66.5
+deprecated==1.2.14
+future==0.18.2
+ffmpeg==1.4
+opencv-python~=4.10.0.84
+dataclasses~=0.8
+ultralytics~=8.3.27
+setuptools~=75.3.0
